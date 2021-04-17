@@ -1,0 +1,13 @@
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\TrabajoPracticoNro1_Yanez_Evelyn.FormCalculadora.resources
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\TrabajoPracticoNro1_Yanez_Evelyn.Properties.Resources.resources
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\bin\Debug\TrabajoPracticoNro1_Yanez_Evelyn.exe.config
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\bin\Debug\TrabajoPracticoNro1_Yanez_Evelyn.exe
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\bin\Debug\TrabajoPracticoNro1_Yanez_Evelyn.pdb
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\bin\Debug\Entidades.dll
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\bin\Debug\Entidades.pdb
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\TrabajoPracticoNro1_Yanez_Evelyn.exe
+C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\TrabajoPracticoNro1_Yanez_Evelyn\obj\Debug\TrabajoPracticoNro1_Yanez_Evelyn.pdb
