@@ -4,3 +4,9 @@ C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\bin\Debug
 C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\bin\Debug\Entidades.pdb
 C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\obj\Debug\Entidades.dll
 C:\Users\EGY96\source\repos\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\obj\Debug\Entidades.pdb
+C:\Users\EGY96\OneDrive\Escritorio\tp_laboratorio_2\TP_1\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\bin\Debug\Entidades.dll
+C:\Users\EGY96\OneDrive\Escritorio\tp_laboratorio_2\TP_1\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\bin\Debug\Entidades.pdb
+C:\Users\EGY96\OneDrive\Escritorio\tp_laboratorio_2\TP_1\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\tp_laboratorio_2\TP_1\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\tp_laboratorio_2\TP_1\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\obj\Debug\Entidades.dll
+C:\Users\EGY96\OneDrive\Escritorio\tp_laboratorio_2\TP_1\TrabajoPracticoNro1_Yanez_Evelyn\Entidades\obj\Debug\Entidades.pdb
